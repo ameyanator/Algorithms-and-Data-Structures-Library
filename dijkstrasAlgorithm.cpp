@@ -50,7 +50,7 @@ void dijkstra(int s)
 int main()
 {
 	fio;
-	
+	//be sure to use the initialize() function
 	cerr << "Time : " << (double)clock() / (double)CLOCKS_PER_SEC << "s\n";
 	return 0;
 }
